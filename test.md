@@ -13,6 +13,7 @@
 * Montufar, Guido F., and Jason Morton. “[When Does a Mixture of Products Contain a Product of Mixtures](http://www.personal.psu.edu/gfm10/blogs/gfmc_blog/MontufarTalkISI.pdf).” arXiv preprint arXiv:1206.0387 (2012).
 * H. Larochelle, D. Erhan, A. Courville, J. Bergstra, and Y. Bengio. [An Empirical Evaluation of Deep Architectures on Problems with Many Factors of Variation](http://www.cs.toronto.edu/~larocheh/publications/deep-nets-icml-07.pdf). ICML 2007.
 * Dumitru Erhan, Yoshua Bengio, Aaron Courville, Pierre-Antoine Manzagol, Pascal Vincent, and Samy Bengio. [Why Does Unsupervised Pre-training Help Deep Learning](http://www.jmlr.org/papers/volume11/erhan10a/erhan10a.pdf) JMLR 2010
+
 #Unsupervised Feature Learning
 * Salakhutdinov, Ruslan, and Geoffrey E. Hinton. “[Deep boltzmann machines.](http://www.cs.utoronto.ca/~rsalakhu/papers/dbm.pdf)” Proceedings of the international conference on artificial intelligence and statistics. Vol. 5. No. 2. Cambridge, MA: MIT Press, 2009.
 * [Scholarpedia page](http://www.scholarpedia.org/article/Deep_belief_networks) on Deep Belief Networks.
