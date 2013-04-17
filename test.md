@@ -20,11 +20,13 @@
 * Ranzato, M'A, Huang, F-J, Boureau, Y-L, and Le Cun, Y.[Unsupervised Learning of Invariant Feature Hierarchies with Applications to Object Recognition](http://yann.lecun.com/exdb/publis/pdf/ranzato-cvpr-07.pdf).CVPR 2007
 * Sutskever, I. and Hinton, G. E. [Deep Narrow Sigmoid Belief Networks are Universal Approximators](http://www.cs.toronto.edu/~hinton/absps/universal.pdf).Neural Computation, Vol 20, pp 2629-2636.
 * Hinton, G. E.[To recognize shapes, first learn to generate images](http://www.cs.toronto.edu/~hinton/absps/montrealTR.pdf).Technical Report (2006)
+
 ###Deep Boltzmann Machines
 * [An Efficient Learning Procedure for Deep Boltzmann Machines](http://www.utstat.toronto.edu/~rsalakhu/papers/neco_DBM.pdf), Ruslan Salakhutdinov and Geoffrey Hinton, Neural Computation August 2012, Vol. 24, No. 8: 1967 — 2006.
 * Montavon, Grégoire, and Klaus-Robert Müller. “[Deep Boltzmann Machines and the Centering Trick.](http://gregoire.montavon.name/publications/montavon-lncs12.pdf)“ Neural Networks: Tricks of the Trade (2012): 621-637.
 * Salakhutdinov, Ruslan, and Hugo Larochelle. “[Efficient learning of deep boltzmann machines.](http://www.mit.edu/~rsalakhu/papers/dbmrec.pdf)“ International Conference on Artificial Intelligence and Statistics. 2010.
 * Salakhutdinov, Ruslan. [Learning deep generative models](http://cubs.buffalo.edu/govind/CSE705-SeminarPapers/9.pdf). Diss. University of Toronto, 2009.
+
 ###RBMs
 * [Tutorial on RBMs](http://deeplearning.net/tutorial/rbm.html)
 * [Large-Scale Feature Learning With Spike-and-Slab Sparse Coding](http://icml.cc/2012/papers/718.pdf), Ian Goodfellow, Aaron Courville and Yoshua Bengio, in: ICML’2012
@@ -32,6 +34,7 @@
 * M. Ranzato, A. Krizhevsky, G. Hinton. [Factored 3-Way Restricted Boltzmann Machines for Modeling Natural Images](http://www.cs.toronto.edu/~ranzato/publications/ranzato_aistats2010.pdf). In AISTATS 2010.
 * M. Ranzato, G. Hinton, [Modeling Pixel Means and Covariances Using Factorized Third-Order Boltzmann Machines](http://www.cs.toronto.edu/~ranzato/publications/ranzato_cvpr2010.pdf). CVPR 2010
 * Dahl, G., Ranzato, M., Mohamed, A. and Hinton, G. E. [Phone Recognition with the Mean-Covariance Restricted Boltzmann Machine](http://www.cs.toronto.edu/~hinton/absps/mcphone.pdf). NIPS 2010
+
 ###Autoencoders
 * [Regularized Auto-Encoders Estimate Local Statistics](http://arxiv.org/abs/1211.4246), Guillaume Alain, Yoshua Bengio and Salah Rifai, Université de Montréal, arXiv report 1211.4246, 2012
 * [A Generative Process for Sampling Contractive Auto-Encoders](http://icml.cc/2012/papers/910.pdf), Salah Rifai, Yoshua Bengio, Yann Dauphin and Pascal Vincent, in: ICML’2012, Edinburgh, Scotland, U.K., 2012
